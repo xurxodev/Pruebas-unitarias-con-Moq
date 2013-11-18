@@ -1,0 +1,9 @@
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\UnitTestWithMoqExample\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\UnitTestWithMoqExample\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\UnitTestWithMoqExample\UnitTestProject\bin\Debug\Moq.dll
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\UnitTestWithMoqExample\UnitTestProject\bin\Debug\UnitTestWithMoqExample.dll
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\UnitTestWithMoqExample\UnitTestProject\bin\Debug\UnitTestWithMoqExample.pdb
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\UnitTestWithMoqExample\UnitTestProject\bin\Debug\Moq.xml
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\UnitTestWithMoqExample\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\UnitTestWithMoqExample\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\UnitTestWithMoqExample\UnitTestProject\obj\Debug\UnitTestProject.pdb
